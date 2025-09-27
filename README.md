@@ -14,5 +14,4 @@ I'm a developer who loves building trading bots, automating workflows, and explo
 - Crypto AI Agent – trading assistant with AI reasoning
 - Portfolio Website personal site built with Next.js and Tailwind
 
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+
